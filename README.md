@@ -4,6 +4,7 @@ hi how are you
 delivery contineous
 GOOD MORNING
 stay bless n active
+stay safe
 
 This sample code helps get you started with a simple Python web service using
 AWS Lambda and Amazon API Gateway.
